@@ -1,0 +1,7 @@
+Paciente con DNI/NIE: 345467k
+Nombre y apellidos: Laura Maria Siqueira Francellino
+Fecha de nacimiento: 01/01/1990
+Domicilio: Don Epaminondas, 234
+C. P.: 235425; Localidad: Nantes, Franca
+Nº Teléfono: 678987456
+_________________________________________________

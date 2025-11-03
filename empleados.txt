@@ -1,0 +1,9 @@
+Empleado con DNI/NIE: 23436453k
+Nombre y apellidos: Karen aline Francellino Siqueira
+Fecha de nacimiento: 17/06/1987
+Domicilio: Riera de Gaia, 354
+C. P.: 234456; Localidad: Barcelona
+Nº Teléfono: 345123456
+Departamento: TI
+Categoria profesional: Senior
+_________________________________________________
